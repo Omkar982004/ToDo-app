@@ -20,8 +20,7 @@ It allows you to add, complete, edit, and delete tasks — all with real-time up
 
 ## 🖼️ Screenshots
 
-### 📌 Homepage
-![Homepage Screenshot](./screenshots/homepage.png)
-
+![Homepage Screenshot](./screenshots/screenshot1.png)
+![Homepage Screenshot](./screenshots/screenshot2.png)
 
 ---
